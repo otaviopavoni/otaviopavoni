@@ -2,12 +2,17 @@
 
 
 
-- 👀 I’m interested on help other people with their code and post my codes here. 
-- 🌱 I’m currently learning Python, JS, HTML & CSS, React, TS, etc.
+- Português 🇧🇷🇵🇹:
+<br>👀 Estou interessado em ajudar as outras pessoas com seus códigos e também ser ajudado.
+<br>🌱 Atualmente estou aprendendo Python, JS, HTML & CSS, React, TS, etc.
+
+- English 🇺🇸🇬🇧:
+<br>👀 I’m interested on help other people with their code and post my codes here. 
+<br>🌱 I’m currently learning Python, JS, HTML & CSS, React, TS, etc.
 
  ##
 
- <div align="center">
+ <div>
   <a href="https://github.com/otaviorzx">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=otaviorzx&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviorzx&layout=compact&langs_count=7&theme=github_dark"/>
