@@ -12,11 +12,21 @@
 
  ##
 
- <div>
-  <a href="https://github.com/otaviorzx">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=otaviorzx&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviorzx&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
+<p align="center">
+  <a href="https://github.com/otaviorzx/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviorzx&layout=compact&theme=github_dark"
+    />
+  </a>
+  <a href="https://github.com/otaviorzx/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=otaviorzx&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=github_dark"
+    />
+  </a>
+</p>
  
  ## Skills :nerd_face:
  
