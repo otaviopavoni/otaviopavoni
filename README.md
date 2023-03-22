@@ -1,4 +1,4 @@
-## Olá! / Hello! - ?x?x
+## Olá! / Hello!
 
 
 
