@@ -4,11 +4,11 @@
 
 - Português 🇧🇷🇵🇹:
 <br>👀 Estou interessado em ajudar as outras pessoas com seus códigos e também ser ajudado.
-<br>🌱 Atualmente estou aprendendo Python, JS, HTML & CSS, React, TS, etc, mas no momento estou dando um foco maior para a programação em Blockchain, com a linguagem Solidity.
+<br>🌱 Atualmente estou aprendendo Python, JS, HTML & CSS e React. Tenho também interesse em Python.
 
 - English 🇺🇸🇬🇧:
 <br>👀 I’m interested on help other people with their code and post my codes here. 
-<br>🌱 I’m currently learning Python, JS, HTML & CSS, React, TS, etc, but at the moment I'm focusing in Blockchain programming, with the Solidity language.
+<br>🌱 I’m currently learning JS, HTML & CSS and React. Have some interest in Python.
 
  ##
 
