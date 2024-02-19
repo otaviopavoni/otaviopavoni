@@ -1,14 +1,10 @@
 ## Olá! / Hello!
 
 
-
-- Português 🇧🇷🇵🇹:
-<br>👀 Estou interessado em ajudar as outras pessoas com seus códigos e também ser ajudado.
-<br>🌱 Atualmente estou aprendendo Python, JS, HTML & CSS e React. Tenho também interesse em Python.
-
+ 
 - English 🇺🇸🇬🇧:
-<br>👀 I’m interested on help other people with their code and post my codes here. 
-<br>🌱 I’m currently learning JS, HTML & CSS and React. Have some interest in Python.
+<br>🕶️ I’m 16. I write code. 
+<br>📖 I’m currently learning C++.
 
  ##
 
@@ -32,11 +28,9 @@
  
 <p align="center">
  
-  <img align="center" alt="X-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="X-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="X-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="X-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="X-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="X-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="X-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
  </p>
   
   ##
