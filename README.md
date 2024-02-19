@@ -38,7 +38,7 @@
  
 <p align="center">
   <a href = "otaviopavonimartins@gmail.com" img align="center" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://wa.me/5514991783263" img align="center" target="_blank"><img src=https://img.shields.io/badge/WhatsApp?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href = "https://wa.me/5514991783263" img align="center" target="_blank"><img src="https://img.shields.io/badge/whatsapp=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  
  </p>
  
