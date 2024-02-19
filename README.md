@@ -38,10 +38,7 @@
  
 <p align="center">
   <a href = "otaviopavonimartins@gmail.com" img align="center" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://t.me/otaviopavoni" img align="center" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-  <a href = "https://wa.me/5514991783263" img align="center" target="_blank"><img src=https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
- 
-   ![Snake animation](https://github.com/otaviopavoni/otaviopavoni/blob/output/github-contribution-grid-snake.svg)
+  <a href = "https://wa.me/5514991783263" img align="center" target="_blank"><img src=https://img.shields.io/badge/WhatsApp?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  
  </p>
  
