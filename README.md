@@ -4,7 +4,7 @@
  
 - English 🇺🇸🇬🇧:
 <br>🕶️ I’m 17. I write code. 
-<br>📖 I’m currently learning C++.
+<br>📖 I’m currently learning C.
 
  ##
 
