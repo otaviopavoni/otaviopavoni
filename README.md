@@ -3,7 +3,7 @@
 
  
 - English 🇺🇸🇬🇧:
-<br>🕶️ I’m 16. I write code. 
+<br>🕶️ I’m 17. I write code. 
 <br>📖 I’m currently learning C++.
 
  ##
@@ -27,8 +27,7 @@
  ## Skills :nerd_face:
  
 <p align="center">
- 
-  <img align="center" alt="X-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
+   <img align="center" alt="X-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
   <img align="center" alt="X-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
  </p>
   
