@@ -2,9 +2,11 @@
 
 
  
-- English 🇺🇸🇬🇧:
+- About me:
 <br>🕶️ I’m 17. I write code. 
 <br>📖 I’m currently learning C.
+<br>On this profile I post notes, thoughts, ideas and codes I wrote which I'm proud of.
+<br>Born in Brazil 🇧🇷
 
  ##
 
