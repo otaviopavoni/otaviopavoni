@@ -4,7 +4,7 @@
  
 - About me:
 <br>🕶️ I’m 17. I write code. 
-<br>📖 I’m currently learning C.
+<br>📖 I’m currently learning Python to solve simple logic problems.
 <br>On this profile I post notes, thoughts, ideas and codes I wrote which I'm proud of.
 <br>Born in Brazil 🇧🇷
 
@@ -29,7 +29,7 @@
  ## Skills :nerd_face:
  
 <p align="center">
-   <img align="center" alt="X-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+   <img align="center" alt="X-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" alt="X-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
  </p>
   
