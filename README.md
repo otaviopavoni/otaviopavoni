@@ -5,6 +5,7 @@
 - About me:
 <br>🕶️ I’m 17. I write code. 
 <br>📖 I’m currently learning Python.
+<br> I have hyperfocus on Linux.
 <br>On this profile I post projects I wrote which I'm proud of.
 <br>Born in Brazil 🇧🇷
 
