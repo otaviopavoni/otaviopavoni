@@ -3,7 +3,7 @@
 
  
 - About me:
-<br>🕶️ I’m 17. I'm a philosopher, graphic designer and software engineer.
+<br>🕶️ 17 years old. I'm a philosopher, graphic designer and software engineer.
 <br>🧑‍💻 Open-source developer and contributor.
 
  ##
