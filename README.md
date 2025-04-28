@@ -3,11 +3,8 @@
 
  
 - About me:
-<br>🕶️ I’m 17. I write code. 
-<br>📖 I’m currently learning Python.
-<br> I have hyperfocus on Linux.
-<br>On this profile I post projects I wrote which I'm proud of.
-<br>Born in Brazil 🇧🇷
+<br>🕶️ I’m 17. I'm a philosopher, graphic designer and software engineer.
+<br>🧑‍💻 Open-source developer and contributor.
 
  ##
 
@@ -30,6 +27,8 @@
  ## Skills :nerd_face:
  
 <p align="center">
+   <img align="center" alt="X-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+   <img align="center" alt="X-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
    <img align="center" alt="X-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
  </p>
   
