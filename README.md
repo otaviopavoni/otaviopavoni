@@ -25,13 +25,31 @@
 </p>
  
  ## Skills :nerd_face:
- 
+
+<p align="center">
+   <img align="center" alt="X-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg">
+   <img align="center" alt="X-C" height="30" width="30" src="https://lh3.googleusercontent.com/proxy/gJe2-MlG0_fjt6bX-VaqOCc9eg-TRgdW1rOVvVVvZn7HA7vHps83MFxOK36nuCbjSzk_XHigvOKQKovUVbbKE8-AQ9_YYriBeXzYJ0Yh0TXUa-w">
+   <img align="center" alt="X-C" height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-512/free-freebsd-logo-icon-svg-download-png-2944882.png?f=webp&w=256">
+</p>
+
 <p align="center">
    <img align="center" alt="X-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
    <img align="center" alt="X-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
    <img align="center" alt="X-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+</p>
+
+<p align="center">
    <img align="center" alt="X-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-   <img align="center" alt="X-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+   <img align="center" alt="X-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
+</p>
+ 
+<p align="center">
+   <img align="center" alt="X-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+   <img align="center" alt="X-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
+ </p>
+
+ <p align="center">
+   <img align="center" alt="X-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
  </p>
   
   ##
