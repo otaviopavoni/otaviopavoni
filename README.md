@@ -3,8 +3,8 @@
 
  
 - About me:
-<br>🕶️ 17 years old. I'm a philosopher, graphic designer and software engineer.
-<br>🧑‍💻 Open-source developer and contributor.
+<br>🕶️ Playing around with computers since I was 4. Playing with design tools since I was 13. Writing code since I was 13. Becoming a professional software engineer at 18. These machines makes me feel like home.
+<br>🧑‍💻 I have interest in Linux, design, back-end and I'm willing to be a great open-source developer and contributor.
 
  ##
 
@@ -28,7 +28,7 @@
 
 <p align="center">
    <img align="center" alt="X-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg">
-   <img align="center" alt="X-C" height="30" width="30" src="https://lh3.googleusercontent.com/proxy/gJe2-MlG0_fjt6bX-VaqOCc9eg-TRgdW1rOVvVVvZn7HA7vHps83MFxOK36nuCbjSzk_XHigvOKQKovUVbbKE8-AQ9_YYriBeXzYJ0Yh0TXUa-w">
+   <img align="center" alt="X-C" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
    <img align="center" alt="X-C" height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-512/free-freebsd-logo-icon-svg-download-png-2944882.png?f=webp&w=256">
 </p>
 
@@ -50,6 +50,10 @@
 
  <p align="center">
    <img align="center" alt="X-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+   <img align="center" alt="X-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
+   <img align="center" alt="X-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg">
+   <img align="center" alt="X-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg">
+  
  </p>
   
   ##
