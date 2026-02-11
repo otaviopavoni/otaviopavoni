@@ -3,7 +3,7 @@
 
  
 - About me:
-<br>🕶️ Playing around with computers since I was 4. Playing with design tools since I was 13. Writing code since I was 13. Becoming a professional software engineer at 18. These machines makes me feel like home.
+<br>🕶️ Playing around with computers since I was 4. Playing with design tools since I was 12. Writing code since I was 13. Becoming a professional software engineer at 18. These machines makes me feel like home.
 <br>🧑‍💻 I have interest in Linux, design, back-end and I'm willing to be a great open-source developer and contributor.
 
  ##
