@@ -1,70 +1,56 @@
-## Olá! / Hello!
+<h1 align="center">Olá! / Hello!</h1>
 
+###
 
- 
-- About me:
-<br>🕶️ Playing around with computers since I was 4. Playing with design tools since I was 12. Writing code since I was 13. Becoming a professional software engineer at 18. These machines makes me feel like home.
-<br>🧑‍💻 I have interest in Linux, design, back-end and I'm willing to be a great open-source developer and contributor.
+<p align="left">About me:<br>🕶️ Playing around with computers since I was 4. Playing with design tools since I was 12. Writing code since I was 13. Becoming a professional software engineer at 18. These machines makes me feel like home.<br>🧑‍💻 I have interest in Linux, design, front-end (React and Angular) and back-end (Java with SpringBoot and MySQL) and I'm willing to be a great open-source developer contributor and a software engineer working with my dream projects.</p>
 
- ##
+###
 
-<p align="center">
-  <a href="https://github.com/otaviopavoni/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviopavoni&layout=compact&theme=github_dark"
-    />
-  </a>
-  <a href="https://github.com/otaviopavoni/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=otaviopavoni&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=github_dark"
-    />
-  </a>
-</p>
- 
- ## Skills :nerd_face:
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
 
-<p align="center">
-   <img align="center" alt="X-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg">
-   <img align="center" alt="X-C" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
-   <img align="center" alt="X-C" height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-512/free-freebsd-logo-icon-svg-download-png-2944882.png?f=webp&w=256">
-</p>
+###
 
-<p align="center">
-   <img align="center" alt="X-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-   <img align="center" alt="X-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-   <img align="center" alt="X-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=otaviopavoni&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=otaviopavoni&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-<p align="center">
-   <img align="center" alt="X-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-   <img align="center" alt="X-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
-</p>
- 
-<p align="center">
-   <img align="center" alt="X-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-   <img align="center" alt="X-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
- <img align="center" alt="X-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
- </p>
+###
 
- <p align="center">
-   <img align="center" alt="X-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-   <img align="center" alt="X-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
-   <img align="center" alt="X-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg">
-  
- </p>
-  
-  ##
-  
-## Contact me :iphone:
- 
-<p align="center">
-  <a href = "otaviopavonimartins@gmail.com" img align="center" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://wa.me/5514991783263" img align="center" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%23333?style=for-the-badge&logo=whatsapp&logoColor=green" target="_blank"></a>
+<img src="https://raw.githubusercontent.com/otaviopavoni/otaviopavoni/output/snake.svg" alt="Snake animation" />
 
+###
 
- 
- </p>
- 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=otaviopavoni.otaviopavoni&"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+</div>
+
+###
