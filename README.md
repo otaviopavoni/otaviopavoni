@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">About me:<br>🕶️ Playing around with computers since I was 4. Playing with design tools since I was 12. Writing code since I was 13. Becoming a professional software engineer at 18. These machines makes me feel like home.<br>🧑‍💻 I have interest in Linux, design, front-end (React and Angular) and back-end (Java with SpringBoot and MySQL) and I'm willing to be a great open-source developer contributor and a software engineer working with my dream projects.</p>
+<p align="left">About me:<br>🕶️ Playing around with computers since I was 4. Playing with design tools since I was 12. Writing code since I was 13. Becoming a professional software engineer at 18. These machines makes me feel like home.<br>🧑‍💻 I have interest in Linux, design, front-end (React and Next.JS) and back-end (Java with SpringBoot and PostgreSQL) and I'm willing to be a great open-source developer contributor and a software engineer working with my dream projects.</p>
 
 ###
 
