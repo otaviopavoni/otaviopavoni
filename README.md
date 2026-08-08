@@ -1,8 +1,8 @@
-<h1 align="center">Olá! / Hello!</h1>
+<h1 align="center">Greetings!</h1>
 
 ###
 
-<p align="left">About me:<br>🕶️ Playing around with computers since I was 4. Playing with design tools since I was 12. Writing code since I was 13. Becoming a professional software engineer at 18. These machines makes me feel like home.<br>🧑‍💻 I have interest in Linux, design, front-end (React and Next.JS) and back-end (Java with SpringBoot and PostgreSQL) and I'm willing to be a great open-source developer contributor and a software engineer working with my dream projects.</p>
+<p align="left">Learning the C programming language.</p>
 
 ###
 
@@ -30,6 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />-->
 </div>
 
+<!--
 ###
 
 <div align="center">
@@ -42,6 +43,8 @@
 <img src="https://raw.githubusercontent.com/otaviopavoni/otaviopavoni/output/snake.svg" alt="Snake animation" />
 
 ###
+
+-->
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=otaviopavoni.otaviopavoni&"  />
